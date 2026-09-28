@@ -7,7 +7,8 @@
 | Pyae Sone        | 6805140013-hub            | test_teardown.py |
 | Zaw Thant Khaing | ZawThantKhaing-6805140017 | test_withdraw.py |
 | Zaw Win Aung     | ZawWinAung-6805140022     | test_deposit.py  |
-| Shu Maung        | ShuMaung-6805140021       | test_shared.py   |
+| Shu Maung        | ShuMaung-6805140021 ,     | test_shared.py   |
+                     shu-maung-6805140021
 | Ye Min Thant     | 6805140015-collab         | conftest.py      |
 
 ## Our Merge Conflict
@@ -45,7 +46,7 @@ Output of `git shortlog -sn`:
      3  Ye Min Thant
      4  Zaw Thant Khaing
      3  ZawWinAung
-
+```
 ## Reflection Questions
 
 # Why was your push rejected, and how did you fix it?
