@@ -7,7 +7,6 @@
 | Pyae Sone        | 6805140013-hub            | test_teardown.py |
 | Zaw Thant Khaing | ZawThantKhaing-6805140017 | test_withdraw.py |
 | Zaw Win Aung     | ZawWinAung-6805140022     | test_deposit.py  |
-| Shu Maung        | shu-maung-6805140021      | test_shared.py   |
 | Ye Min Thant     | 6805140015-collab         | conftest.py      |
 
 ## Our Merge Conflict
