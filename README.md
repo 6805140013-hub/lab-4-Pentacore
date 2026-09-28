@@ -38,7 +38,12 @@ This AutomaticallyGit could not resolve this conflict automatically because two 
 
 ## Git Contribution Summary
 
-ထပ်ဖြည့်ရန်
+Each team member contributed a separate test file or supporting file to the project.
+Pyae Sone created and worked on test_teardown.py, focusing on testing the teardown process.
+Zaw Thant Khaing created and worked on test_withdraw.py, focusing on testing withdrawal functions.
+Zaw Win Aung created and worked on test_deposit.py, focusing on testing deposit functions.
+Ye Min Thant created and worked on conftest.py, which provides shared test setup for the project.
+Shu Maung created and worked on test_shared.py, adding shared tests for the bank account functions.
 
 ## Reflection Questions
 
